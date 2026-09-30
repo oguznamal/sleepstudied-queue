@@ -1,0 +1,44 @@
+name: publish
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch: {}
+concurrency:
+  group: publish
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch || github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Publish the oldest due post
+        run: node publish.js
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          S3_ENDPOINT: ${{ secrets.S3_ENDPOINT }}
+          S3_BUCKET: ${{ secrets.S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET }}
+          AWS_DEFAULT_REGION: ${{ secrets.S3_REGION }}
+          DRY_RUN: ${{ vars.DRY_RUN }}
+      - name: Save queue state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add queue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "queue: publish run"
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              sleep 5
+            done
+          fi

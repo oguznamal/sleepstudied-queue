@@ -1,0 +1,265 @@
+{
+  "posts": [
+    {
+      "id": "002",
+      "slug": "night-owl-genes",
+      "dir": "posts/002-night-owl-genes",
+      "at": "2026-10-01T08:30:00-04:00",
+      "caption": "Blaming your DNA for sleeping in? A genetic study of 697,828 people found 351 gene regions tied to being a morning person.\n\nThe catch: between the people with the most and the fewest of those genes, sleep timing differed by about 25 minutes. Light and routine moved body clocks much further in other studies.\n\nNight owl is a tendency, not a sentence. Sources on the last slide.\n\n#sleep #sleepscience #5amclub #morningroutine #nightowl",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "003",
+      "slug": "morning-brain-fog",
+      "dir": "posts/003-morning-brain-fog",
+      "at": "2026-10-01T13:30:00-04:00",
+      "caption": "That heavy, useless feeling after your alarm has a name: sleep inertia. Researchers treat it as its own brain state, and it shows up even after a full 8-hour night.\n\nIt's worse when the alarm pulls you out of deep sleep: in one older nap study, performance dropped 41%. No countdown, cold shower or smart alarm has been shown to erase it on the spot. Without big sleep debt it rarely lasts past 30 minutes, and while it lasts you feel sharper than you are.\n\nGive your brain its boot-up time. Sources on the last slide.\n\n#sleep #sleepscience #adhdlife #morningroutine #sleepinertia",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "004",
+      "slug": "sleep-longer-eat-less",
+      "dir": "posts/004-sleep-longer-eat-less",
+      "at": "2026-10-01T19:00:00-04:00",
+      "caption": "Researchers asked 80 short-sleeping adults to sleep longer. They added about 1.2 hours a night and ate about 270 fewer calories a day, with no diet prescribed.\n\nFlip it and it gets worse. In a lab trial, 14 days of 4-hour nights added belly fat, including the deep visceral kind. One sleepless night cut muscle protein synthesis by 18%.\n\nRecovery starts the night before. Sources on the last slide.\n\n#sleep #sleepscience #fitness #fatloss #musclerecovery",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "005",
+      "slug": "sleep-hacks-checked",
+      "dir": "posts/005-sleep-hacks-checked",
+      "at": "2026-10-02T08:30:00-04:00",
+      "caption": "Viral breathing tricks promise sleep in seconds. The evidence is thinner than the videos: the one trial of the famous breathing count tested 34 students and never measured sleep, and slow-breathing studies mostly show people feel better, not sleep better.\n\nWhat holds up is slower. In a 54-person insomnia trial, mindfulness programs cut nightly wake time by 43.75 minutes. CBT-I, the therapy doctors recommend first, cut about 26 minutes of middle-of-the-night waking across 20 trials.\n\nPractice beats hacks. Sources on the last slide.\n\n#sleep #sleepscience #mindfulness #insomnia #meditation",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "006",
+      "slug": "your-sleep-score-lies",
+      "dir": "posts/006-your-sleep-score-lies",
+      "at": "2026-10-02T13:30:00-04:00",
+      "caption": "Your sleep tracker is great at one thing: noticing you're asleep. In a 2021 lab test of 7 consumer trackers in 34 people, catching the time you lie awake scored just 0.18 to 0.54, where perfect is one. They did worse on rough nights.\n\nChasing the score anyway has a name: orthosomnia. In a 2025 study of 994 people, preoccupation with sleep went with perfectionism, health anxiety and insomnia.\n\nOne night's number is noise. In 88 students wearing trackers, consistent sleep went with better grades and the night before the exam didn't matter. Sources on the last slide.\n\n#sleep #sleepscience #sleeptracker #wearables #productivity",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "007",
+      "slug": "the-secret-nappers",
+      "dir": "posts/007-the-secret-nappers",
+      "at": "2026-10-02T19:00:00-04:00",
+      "caption": "The loudest 'I barely sleep' stories in history come with a footnote: naps. Edison kept cots around his lab. Churchill napped an hour every afternoon. Buckminster Fuller ran on 30-minute naps every six hours, then quit after two years.\n\nThen a lab tested the edge of sleep. People who drifted into light sleep for 15 seconds or more found a hidden shortcut 83% of the time, versus 30% for people who stayed awake. A 2023 follow-up found that drifting off with a dream cue beat staying awake on creativity tasks.\n\nThe legends didn't beat sleep. They scheduled it. Sources on the last slide.\n\n#sleep #sleepscience #naps #history #5amclub",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "008",
+      "slug": "your-clock-runs-late",
+      "dir": "posts/008-your-clock-runs-late",
+      "at": "2026-10-03T08:30:00-04:00",
+      "caption": "If your brain lights up right when you're supposed to sleep, you're not imagining it. In a study of 40 adults with ADHD, the 31 who struggled to fall asleep had a later body clock than people without ADHD.\n\nA few everyday things push any clock later: room light before bed, even dim lamp light, and a wake-up time that changes every day.\n\nThe good part: clocks move. In one trial, night owls shifted about 2 hours earlier with light, fixed meals and timed caffeine. Sources on the last slide.\n\n#adhd #adhdlife #sleep #nightowl #circadianrhythm",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "009",
+      "slug": "your-morning-timestamped",
+      "dir": "posts/009-your-morning-timestamped",
+      "at": "2026-10-03T13:30:00-04:00",
+      "caption": "The first hour after your alarm runs on a script. The fog is sleep inertia, and without heavy sleep debt it rarely lasts past 30 minutes. Meanwhile your cortisol climbs 50 to 75% within the first 30 minutes.\n\nWhen you train matters too. In 99 people, 7 AM workouts moved the body clock earlier and 7 to 10 PM workouts pushed it later. And that famous 250% dopamine number came from an hour in 14°C water, not a shower.\n\nThe cheapest upgrade is light. In 59 people wearing light sensors, brighter mornings came with less morning grogginess. Open the curtains before you judge your brain. Sources on the last slide.\n\n#sleep #fitness #morningroutine #5amclub #sleepscience",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "010",
+      "slug": "same-diet-less-sleep",
+      "dir": "posts/010-same-diet-less-sleep",
+      "at": "2026-10-03T19:00:00-04:00",
+      "caption": "On the same calorie-cut diet, people who slept 5.5 hours instead of 8.5 lost 55% less fat and 60% more lean mass. Same food, same people. Only the nights changed.\n\nAfter 2 short nights, leptin, the fullness hormone, fell 18% and ghrelin, the hunger hormone, rose 28%. Hunger went up 24%, and cravings for calorie-dense carbs rose 33 to 45%.\n\nSleep isn't a break from your diet. It is the diet. Sources on the last slide.\n\n#sleep #mindfulness #nutrition #fatloss #sleepscience",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "011",
+      "slug": "to-do-list-before-bed",
+      "dir": "posts/011-to-do-list-before-bed",
+      "at": "2026-10-04T08:30:00-04:00",
+      "caption": "Lying in bed while your brain rehearses tomorrow isn't fixed by scrolling. In 844 adults, texting after lights out went with falling asleep slower and sleeping worse.\n\nIn a sleep lab, 57 people spent 5 minutes writing before bed. The ones who wrote a specific to-do list for tomorrow fell asleep faster than the ones who wrote about what they'd already done.\n\nThe more specific the list, the faster they fell asleep. Tonight: pen, paper, 5 minutes, tomorrow's tasks. Sources on the last slide.\n\n#sleep #productivity #todolist #insomnia #sleeptips",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "012",
+      "slug": "friend-shows-up",
+      "dir": "posts/012-friend-shows-up",
+      "at": "2026-10-04T13:30:00-04:00",
+      "caption": "A gym study tried a rule that sounds backwards: members only got their cash reward if they showed up with a friend.\n\nThe harder rule won. Across 774 gym members, the friend group went about 35% more often over four weeks than people paid to go alone.\n\nShowing up is easier when someone notices if you don't. Sources on the last slide.\n\n#studentlife #gymbuddy #accountability #sleepscience #morningroutine",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "013",
+      "slug": "caffeine-cutoff",
+      "dir": "posts/013-caffeine-cutoff",
+      "at": "2026-10-04T19:00:00-04:00",
+      "caption": "A 2023 meta-analysis modeled how long caffeine keeps cutting into sleep. For a coffee, the cutoff came out at about 8.8 hours before bed. For a standard pre-workout, 13.2 hours.\n\nA separate lab study found a double espresso 3 hours before bed pushed the body clock about 40 minutes later, so the next alarm lands earlier on your internal clock. And in 53,266 students, daily energy drinks went with up to 2.07x the risk of short sleep.\n\nWhat time is your last cup? Sources on the last slide.\n\n#5amclub #preworkout #caffeine #sleepscience #morningroutine",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "014",
+      "slug": "the-3am-wake-up",
+      "dir": "posts/014-the-3am-wake-up",
+      "at": "2026-10-05T08:30:00-04:00",
+      "caption": "Wide awake in the dead of night, staring at the ceiling? The internet has a story for that: before electric light, people slept in shifts, with a wake-up in the middle of the night.\n\nThere is real evidence for the split. In a Madagascar farming village without electricity, 21 people tracked for 292 days showed segmented sleep on 49% of nights. But the Hadza, San and Tsimane, also living without electricity, showed no long wake-ups at night, and a 2023 history paper asks whether first sleep and second sleep was ever really the norm.\n\nSo that middle-of-the-night wake-up might be ancient, or it might just be a bad night. Either way, it isn't a character flaw. Sources on the last slide.\n\n#adhd #adhdlife #insomnia #sleephistory #sleepscience",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "015",
+      "slug": "weekend-lie-in",
+      "dir": "posts/015-weekend-lie-in",
+      "at": "2026-10-05T13:30:00-04:00",
+      "caption": "A weekend lie-in feels like paying back the week. In a 36-person sleep lab study, it didn't: after extra weekend sleep, insulin sensitivity still dropped 9-27% during the next short-sleep week.\n\nTiming matters for training too. In athletes, performance swung up to 26% across a day, and time since waking predicted the peak better than the clock did.\n\nThe bill runs long: in one lab study, paying back just 1 hour of sleep debt took about four days. A steady wake-up time, weekends included, is the cheaper recovery tool. Sources on the last slide.\n\n#fitness #recovery #sleepscience #gymlife #5amclub",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "016",
+      "slug": "snooze-nine-minute-myth",
+      "dir": "posts/016-snooze-nine-minute-myth",
+      "at": "2026-10-05T19:00:00-04:00",
+      "caption": "The viral story says the snooze length came from gears that wouldn't line up. The 1956 trade notice for the original Snooz-Alarm says it gave about 15 minutes of quiet.\n\nThe scary myth doesn't hold up either: in 450 people, snoozers didn't sleep less and weren't sleepier. The cost is quieter: a higher resting heart rate, lighter sleep before the alarm, and in a 10-student lab test, a longer fog.\n\nGetting up is easier when someone is waiting for you. Sources on the last slide.\n\n#mindfulmornings #snooze #morningroutine #sleepscience #slowliving",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "017",
+      "slug": "six-hours-feels-fine",
+      "dir": "posts/017-six-hours-feels-fine",
+      "at": "2026-10-06T08:30:00-04:00",
+      "caption": "Everyone who runs on 6 hours says they've adapted. In a classic lab study, nobody had.\n\nAfter two weeks of 6-hour nights, people's thinking sank to the level of up to 2 nights with no sleep at all, while their own sleepiness ratings never caught up. The damage was real. The feeling of it wasn't.\n\nIf you can't feel it, you can't trust the feeling. Protect the hours. Sources on the last slide.\n\n#sleep #productivity #sleepscience #sleepdeprivation #worklife",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "018",
+      "slug": "all-nighter",
+      "dir": "posts/018-all-nighter",
+      "at": "2026-10-06T13:30:00-04:00",
+      "caption": "The all-nighter feels like the responsible move. The data says the night before barely counts.\n\nIn a class of 88 chemistry students wearing sleep trackers, sleep on the night before a test didn't predict their scores. Sleep across the week and month before it did. Across 5 college studies, each extra hour of sleep went with a 0.07 higher GPA, and 535 high schoolers who traded sleep for study struggled more the next day. Still, 60% of students in one survey had pulled an all-nighter, with lower GPAs to match.\n\nThe exam starts weeks before the exam. Sources on the last slide.\n\n#studytips #collegelife #finalsweek #studentlife #sleep",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "019",
+      "slug": "ancestors-after-sunset",
+      "dir": "posts/019-ancestors-after-sunset",
+      "at": "2026-10-06T19:00:00-04:00",
+      "caption": "Early risers love a sleep-like-our-ancestors pitch. So researchers actually measured it.\n\nIn pre-industrial societies living without electricity, the Hadza, San and Tsimane, people slept 5.7 to 7.1 hours a night and fell asleep about 3.3 hours after sunset, not at dusk. They napped on under 7% of winter days.\n\nNatural sleep was never lights-out at dusk. Sources on the last slide.\n\n#5amclub #sleep #history #anthropology #morningroutine",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "020",
+      "slug": "adhd-five-alarms",
+      "dir": "posts/020-adhd-five-alarms",
+      "at": "2026-10-07T08:30:00-04:00",
+      "caption": "If mornings feel harder for you than for everyone around you, it isn't in your head. Or rather, it's measurably in your head.\n\nA review of 62 studies links ADHD to a later body clock. Wrist trackers show slower sleep onset. And across 824 effect sizes, time perception runs less accurate. Many neurodivergent people already use body doubling, someone else's presence, to get hard things started. And about half of the 15.5 million US adults with an ADHD diagnosis got it as adults.\n\nWaking up is a hard start too. Sources on the last slide.\n\n#adhd #adhdlife #adhdtips #morningroutine #sleep",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "021",
+      "slug": "sleep-stack-myths",
+      "dir": "posts/021-sleep-stack-myths",
+      "at": "2026-10-07T13:30:00-04:00",
+      "caption": "Nightcap, magnesium, mouth tape. The recovery stack looks scientific. Most of it is marketing.\n\nAcross 27 studies, even about two drinks cut REM sleep. A 2026 review of 12 magnesium trials found the evidence doesn't support it as a routine sleep treatment. And of 390 mouth-tape reels, 94.4% endorsed it while just 11.6% came from medical professionals.\n\nRecovery happens in your sleep, not in the bottle. Sources on the last slide.\n\n#fitness #recovery #gymlife #sleep #sleepscience",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "022",
+      "slug": "lamp-sets-your-clock",
+      "dir": "posts/022-lamp-sets-your-clock",
+      "at": "2026-10-07T19:00:00-04:00",
+      "caption": "You can do the tea, the journal and the breathing, and still be sitting under the brightest light in the house.\n\nIn the lab, ordinary room light in the evening pushed melatonin later in almost everyone tested, and reading on a glowing screen shifted the body clock more than a paper book did. Outside, a weekend of natural light pulled body clocks earlier.\n\nDim the evening, brighten the morning. Sources on the last slide.\n\n#sleep #sleepscience #circadianrhythm #mindfulness #eveningroutine",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "023",
+      "slug": "woken-at-3am",
+      "dir": "posts/023-woken-at-3am",
+      "at": "2026-10-08T08:30:00-04:00",
+      "caption": "Researchers woke a group of junior officers in the middle of the night and handed them an emergency planning task on the spot. Most of them failed it. Most of the rested group did not.\n\nThat fog is called sleep inertia. It fades fast at first, but full recovery takes at least an hour, hard thinking takes the biggest hit, and people feel sharper than they test.\n\nGive your brain a head start before the big decisions. Sources on the last slide.\n\n#sleep #sleepscience #productivity #morningroutine #sleepinertia",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "024",
+      "slug": "staying-awake-rap-sheet",
+      "dir": "posts/024-staying-awake-rap-sheet",
+      "at": "2026-10-08T13:30:00-04:00",
+      "caption": "A 17-year-old once stayed awake for 11 days while a sleep researcher watched. Investigators put fatigue and excessive workload into their 1990 findings on the Exxon Valdez.\n\nThe modern data is just as blunt. Doctors in training driving home after 24+ hour shifts reported far more crashes and near-misses. After 31 hours awake, strangers rated people's faces as less healthy and less attractive.\n\nStaying up was never the flex. Getting up on time is. Sources on the last slide.\n\n#studytips #collegelife #allnighter #sleep #history",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "025",
+      "slug": "5am-club-bill",
+      "dir": "posts/025-5am-club-bill",
+      "at": "2026-10-08T19:00:00-04:00",
+      "caption": "Waking up early is not the problem. Cutting the night short to do it is.\n\nIn lab studies, one 4-hour night meant 559 extra calories the next day. Young athletes sleeping under 8 hours had 1.7x the odds of an injury. Tennis players on 5-hour nights served worse, and caffeine didn't fix it. The twist: after a short night, morning performance held up better than evening.\n\nKeep the early alarm. Move the bedtime. Sources on the last slide.\n\n#5amclub #sleep #fitness #musclegain #sleepscience",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "026",
+      "slug": "night-shift-myths",
+      "dir": "posts/026-night-shift-myths",
+      "at": "2026-10-09T08:30:00-04:00",
+      "caption": "Warm screens and blue-light glasses get sold as sleep fixes. The studies are less impressed.\n\nIn one trial, Night Shift made no difference to 167 students' sleep. A Cochrane review of 17 trials couldn't say blue-light glasses help. What tracked with trouble falling asleep was interactive screens, not TV. And putting off bed tracked with stress, anxiety and low mood.\n\nThe lever is boring: put the phone down, keep the same bedtime. Sources on the last slide.\n\n#adhdlife #sleep #sleepscience #screentime #bedtimeroutine",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "027",
+      "slug": "your-alarm-cant-tell",
+      "dir": "posts/027-your-alarm-cant-tell",
+      "at": "2026-10-09T13:30:00-04:00",
+      "caption": "Most alarms do one job: make noise. Whether you actually get up is your problem.\n\nThe exercise research keeps pointing at the same lever. People who joined a weight-loss program with friends kept the weight off far more often, and a short weekly buddy check-in added exercise days.\n\nThat's why we built Alarm Mate: a buddy who wakes up at your time. Sources on the last slide.\n\n#fitnessmotivation #morningworkout #gymbuddy #accountability #sleep",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "028",
+      "slug": "the-gummy-guess",
+      "dir": "posts/028-the-gummy-guess",
+      "at": "2026-10-09T19:00:00-04:00",
+      "caption": "The bedtime stack keeps growing: a gummy, a CBD drop, maybe both.\n\nWhen researchers tested 25 melatonin gummies, 22 missed their own label, and one had no melatonin at all. Across 19 trials, melatonin got people asleep 7.06 minutes faster than placebo. And of 84 CBD products sold online, only 31% matched their label.\n\nThe calmer lever is boring: get up at the same time, with someone expecting you. Sources on the last slide.\n\n#sleep #mindfulness #melatonin #supplements #slowliving",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "029",
+      "slug": "nap-science-part-1",
+      "dir": "posts/029-nap-science-part-1",
+      "at": "2026-10-10T08:30:00-04:00",
+      "caption": "Afternoon crash? The length of the nap matters more than the nap.\n\nIn a sleep lab, a 10-minute nap gave an instant lift, while a 30-minute nap made people groggier before it helped. Across 151,588 people, hour-long naps were tied to higher death risk, likely a sign that something else is going on.\n\nThe next part is about that post-nap fog. Sources on the last slide.\n\n#sleep #napping #productivity #sleepscience #worklife",
+      "status": "queued",
+      "attempts": 0
+    },
+    {
+      "id": "030",
+      "slug": "team-snooze",
+      "dir": "posts/030-team-snooze",
+      "at": "2026-10-10T13:30:00-04:00",
+      "caption": "Everyone has an opinion about the snooze button. The studies are messier.\n\nIn one sleep lab, habitual snoozers who snoozed for 30 minutes thought just as clearly after getting up and lost about 6 minutes of sleep. In a survey of 1,732 people, frequent snoozers also reported groggier mornings and shorter sleep.\n\nSo which team are you? Sources on the last slide.\n\n#sleep #studentlife #snooze #morningroutine #collegelife",
+      "status": "queued",
+      "attempts": 0
+    }
+  ]
+}
