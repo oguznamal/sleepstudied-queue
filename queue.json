@@ -342,7 +342,8 @@
       "at": "2026-10-08T08:00:00-04:00",
       "caption": "Researchers woke a group of junior officers in the middle of the night and handed them an emergency planning task on the spot. Most of them failed it. Most of the rested group did not.\n\nThat fog is called sleep inertia. It fades fast at first, but full recovery takes at least an hour, hard thinking takes the biggest hit, and people feel sharper than they test.\n\nGive your brain a head start before the big decisions. Sources on the last slide.\n\n#sleep #sleepscience #productivity #morningroutine #sleepinertia",
       "status": "queued",
-      "attempts": 0
+      "attempts": 1,
+      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached"
     },
     {
       "id": "024",
