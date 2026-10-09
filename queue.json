@@ -381,7 +381,8 @@
       "at": "2026-10-08T20:00:00-04:00",
       "caption": "We ranked the bedside gadgets by what studies found, worst to best.\n\nPink noise cut REM sleep in a lab. Nasal strips changed nothing on sleep recordings in apnea patients, though people felt better. Trackers spot sleep but miss wake. A sunrise alarm helped, in 8 people. A weighted blanket cut insomnia in 120 patients.\n\nThe winner is the most boring one: foam earplugs blocked nearly all noise in a sleep lab. Sources on the last slide.\n\n#sleep #sleepgadgets #earplugs #sleeptracker #pinknoise",
       "status": "queued",
-      "attempts": 0
+      "attempts": 1,
+      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached"
     },
     {
       "id": "026",
