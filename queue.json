@@ -420,7 +420,8 @@
       "at": "2026-10-09T16:00:00-04:00",
       "caption": "The bedtime stack keeps growing: a gummy, a CBD drop, maybe both.\n\nWhen researchers tested 25 melatonin gummies, 22 missed their own label, and one had no melatonin at all. Across 19 trials, melatonin got people asleep 7.06 minutes faster than placebo. And of 84 CBD products sold online, only 31% matched their label.\n\nThe calmer lever is boring: get up at the same time, with someone expecting you. Sources on the last slide.\n\n#sleep #mindfulness #melatonin #supplements #slowliving",
       "status": "queued",
-      "attempts": 0
+      "attempts": 1,
+      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached"
     },
     {
       "id": "038",
