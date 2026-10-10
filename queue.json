@@ -445,9 +445,12 @@
       "dir": "posts/029-nap-science-part-1",
       "at": "2026-10-10T08:00:00-04:00",
       "caption": "Afternoon crash? The length of the nap matters more than the nap.\n\nIn a sleep lab, a 10-minute nap gave an instant lift, while a 30-minute nap made people groggier before it helped. Across 151,588 people, hour-long naps were tied to higher death risk, likely a sign that something else is going on.\n\nThe next part is about that post-nap fog. Sources on the last slide.\n\n#sleep #napping #productivity #sleepscience #worklife",
-      "status": "queued",
+      "status": "published",
       "attempts": 1,
-      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached"
+      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached",
+      "media_id": "17955654228256731",
+      "published_at": "2026-10-10T12:15:16+0000",
+      "note": "already live; not reposted"
     },
     {
       "id": "030",
