@@ -484,9 +484,12 @@
       "dir": "posts/040-snooze-myths",
       "at": "2026-10-11T20:00:00-04:00",
       "caption": "Snoozing gets blamed for everything. The studies are kinder.\n\nIn a sleep lab, 30 minutes of snoozing didn't hurt thinking and cost about 6 minutes of sleep. In 450 people, snoozers didn't sleep less. The sleep-cycle wake-up trick has no study behind it. Groggy brains rate themselves sharper than they are, and the fog rarely lasts past 30 minutes.\n\nMost snoozers aren't lazy: 70.5% of surveyed students often snoozed, mainly out of fear of oversleeping. Sources on the last slide.\n\n#snooze #snoozebutton #sleep #morningroutine #sleepscience",
-      "status": "queued",
+      "status": "published",
       "attempts": 1,
-      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached"
+      "last_error": "IG POST /17841432170676687/media_publish: Application request limit reached",
+      "media_id": "17882958819529178",
+      "published_at": "2026-10-12T01:45:28+0000",
+      "note": "already live; not reposted"
     }
   ]
 }
